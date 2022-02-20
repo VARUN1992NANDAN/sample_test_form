@@ -1,0 +1,268 @@
+#one {
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#one a{
+    text-decoration: none;
+}
+#two{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#two input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+#three{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#three input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+#four{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#four input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+#five{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#five input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+#six{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#six input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+#seven{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#seven a{
+    text-decoration: none;
+    }
+#seven button{
+    background-color: yellow;
+    }
+#eight{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#eight button{
+    background-color: yellow;
+    }   
+#eight a{
+    text-decoration: none;
+    }
+#nine{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#nine a{
+    text-decoration: none;
+    }
+#nine button{
+    background-color: yellow;
+    }
+#ten{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#ten a{
+    text-decoration: none;
+    }
+#ten button{
+    background-color:yellow;
+    }
+#eleven{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#eleven a{
+    text-decoration: none;
+    }
+#eleven button{
+    background-color:yellow;
+    }
+#twelve{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#twelve a{
+    text-decoration: none;
+    }
+#twelve button{
+    background-color:yellow;
+    }
+#thirteen{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#thirteen a{
+    text-decoration: none;
+    }
+#thirteen button{
+    background-color:yellow;
+    }
+#fourteen{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#fourteen a{
+    text-decoration: none;
+    }
+#fourteen button{
+    background-color:yellow;
+    }
+#fifteen{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#fifteen input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+    }
+#sixteen{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#sixteen a{
+    text-decoration: none;
+    }
+#sixteen button{
+    background-color:yellow;
+    }
+#seventeen{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#seventeen a{
+    text-decoration: none;
+    }
+#seventeen button{
+    background-color:yellow;
+    }
+#eighteen{
+    background-color: white;
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+    }
+#eighteen a{
+    text-decoration: none;
+    }
+#eighteen button{
+    background-color:yellow;
+    }
+#nineteen{
+    text-decoration: none;
+    position: absolute;
+    left: 12%;
+}
+#nineteen a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+}
+#nineteen button{
+    border-radius: 5px;
+    background-color: blue;
+}
+#twenty{
+    position: absolute;
+    left: 77%;
+}
+#twentyone{
+    text-align: center;
+    padding-bottom: 0px;
+}
+#twentyone a{
+    text-decoration: none;
+}
